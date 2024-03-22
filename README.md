@@ -10,7 +10,7 @@ This application is built with node.js, inquirer, and MySQL.
 
 ## Installation
 
-To install, clone the GitHub repo, npm i, node index.js
+To install, clone the GitHub repo, fill in your sql info into username/password fields, npm i, node index.js
 
 ## License
 
@@ -22,7 +22,7 @@ This is a completed project, with no future developments in mind.
 
 GitHub Repo: https://github.com/NicoleBrubaker/Employee-Tracker
 
-Video Walkthrough: 
+Video Walkthrough: https://drive.google.com/file/d/1LxLseffAhequAPl7a4EmH709knNkjCm0/view
 
 Screenshot of working app:
 
